@@ -55,6 +55,7 @@
         app:layout_constraintVertical_bias="0.976"
         android:onClick="nextMeme"/>
 
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
         android:layout_width="wrap_content"
